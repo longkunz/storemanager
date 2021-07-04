@@ -1,0 +1,7 @@
+D:\Winform\Do An Winform\Source\My Project\DAL\bin\Release\DAL.dll
+D:\Winform\Do An Winform\Source\My Project\DAL\bin\Release\DAL.pdb
+D:\Winform\Do An Winform\Source\My Project\DAL\bin\Release\ET.dll
+D:\Winform\Do An Winform\Source\My Project\DAL\bin\Release\ET.pdb
+D:\Winform\Do An Winform\Source\My Project\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Winform\Do An Winform\Source\My Project\DAL\obj\Release\DAL.dll
+D:\Winform\Do An Winform\Source\My Project\DAL\obj\Release\DAL.pdb

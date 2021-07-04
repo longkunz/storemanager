@@ -1,0 +1,159 @@
+D:\My Project\My Project\bin\Debug\My Project.exe.config
+D:\My Project\My Project\bin\Debug\My Project.exe
+D:\My Project\My Project\bin\Debug\My Project.pdb
+D:\My Project\My Project\obj\Debug\My Project.csprojAssemblyReference.cache
+D:\My Project\My Project\obj\Debug\My_Project.frmChiTietHoaDon.resources
+D:\My Project\My Project\obj\Debug\My_Project.frmDanhMuc.resources
+D:\My Project\My Project\obj\Debug\My_Project.frmQuanLy.resources
+D:\My Project\My Project\obj\Debug\My_Project.frmKhoHang.resources
+D:\My Project\My Project\obj\Debug\My_Project.FrmNhanVien.resources
+D:\My Project\My Project\obj\Debug\My_Project.frmHoaDon.resources
+D:\My Project\My Project\obj\Debug\My_Project.frmKhachHang.resources
+D:\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+D:\My Project\My Project\obj\Debug\My_Project.frmSanPham.resources
+D:\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.cache
+D:\My Project\My Project\obj\Debug\My Project.exe
+D:\My Project\My Project\obj\Debug\My Project.pdb
+C:\Users\Long\Documents\My Project\My Project\bin\Debug\My Project.exe
+C:\Users\Long\Documents\My Project\My Project\bin\Debug\BUS.dll
+C:\Users\Long\Documents\My Project\My Project\bin\Debug\ET.dll
+C:\Users\Long\Documents\My Project\My Project\bin\Debug\DAL.dll
+C:\Users\Long\Documents\My Project\My Project\bin\Debug\BUS.pdb
+C:\Users\Long\Documents\My Project\My Project\bin\Debug\ET.pdb
+C:\Users\Long\Documents\My Project\My Project\bin\Debug\DAL.pdb
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My Project.csprojResolveAssemblyReference.cache
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.BanHang.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.frmKhachHang.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.frmChiTietHoaDon.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.frmDanhMuc.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.frmHoaDon.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.frmInHoaDon.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.FrmNhanVien.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.HomePage.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.Login.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.frmQuanLy.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.frmKhoHang.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My_Project.frmSanPham.resources
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.Cache
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My Project.exe
+C:\Users\Long\Documents\My Project\My Project\obj\Debug\My Project.pdb
+C:\Users\Long\Documents\My Project\My Project\bin\Debug\My Project.exe.config
+C:\Users\Long\Documents\My Project\My Project\bin\Debug\My Project.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\bin\Debug\My Project.exe.config
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\bin\Debug\My Project.exe
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\bin\Debug\My Project.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\bin\Debug\BUS.dll
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\bin\Debug\ET.dll
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\bin\Debug\BUS.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\bin\Debug\ET.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My Project.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.BanHang.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmKhachHang.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmChiTietHoaDon.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmDanhMuc.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmHoaDon.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmInHoaDon.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.FrmNhanVien.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.HomePage.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.Login.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmQuanLy.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmKhoHang.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmSanPham.resources
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My Project.csproj.CopyComplete
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My Project.exe
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\My Project\obj\Debug\My Project.pdb
+D:\Do_An_Winform\My Project\My Project\bin\Debug\BUS.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.Shared.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\ET.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\DAL.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\stdole.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\BUS.pdb
+D:\Do_An_Winform\My Project\My Project\bin\Debug\ET.pdb
+D:\Do_An_Winform\My Project\My Project\bin\Debug\DAL.pdb
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My Project.csprojResolveAssemblyReference.cache
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.BanHang.resources
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmKhachHang.resources
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmChiTietHoaDon.resources
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmDanhMuc.resources
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmHoaDon.resources
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.FrmNhanVien.resources
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmSanPham.resources
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.HomePage.resources
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.inRaHoaDon.resources
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.Login.resources
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.frmKhoHang.resources
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+D:\Do_An_Winform\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.Cache
+D:\Do_An_Winform\My Project\My Project\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\ShockwaveFlashObjects.dll
+D:\Do_An_Winform\My Project\My Project\bin\Debug\Store Management.exe.config
+D:\Do_An_Winform\My Project\My Project\bin\Debug\Store Management.exe
+D:\Do_An_Winform\My Project\My Project\bin\Debug\Store Management.pdb
+D:\Do_An_Winform\My Project\My Project\obj\Debug\Store Management.exe
+D:\Do_An_Winform\My Project\My Project\obj\Debug\Store Management.pdb
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\Store Management.exe.config
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\Store Management.exe
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\Store Management.pdb
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\BUS.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.Shared.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\ET.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\DAL.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\ShockwaveFlashObjects.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\stdole.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\BUS.pdb
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\ET.pdb
+D:\Winform\Do An Winform\Source\My Project\My Project\bin\Debug\DAL.pdb
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My Project.csprojResolveAssemblyReference.cache
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.BanHang.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.frmKhachHang.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.frmChiTietHoaDon.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.frmDanhMuc.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.frmHoaDon.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.FrmNhanVien.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.frmSanPham.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.HomePage.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.inRaHoaDon.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.Login.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.frmKhoHang.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.Cache
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\Store Management.exe
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\Store Management.pdb
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.ReportHoaDon.resources
+D:\Winform\Do An Winform\Source\My Project\My Project\obj\Debug\My_Project.ReportKho.resources

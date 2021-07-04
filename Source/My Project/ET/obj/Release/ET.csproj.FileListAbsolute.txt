@@ -1,0 +1,5 @@
+D:\Winform\Do An Winform\Source\My Project\ET\bin\Release\ET.dll
+D:\Winform\Do An Winform\Source\My Project\ET\bin\Release\ET.pdb
+D:\Winform\Do An Winform\Source\My Project\ET\obj\Release\ET.csprojResolveAssemblyReference.cache
+D:\Winform\Do An Winform\Source\My Project\ET\obj\Release\ET.dll
+D:\Winform\Do An Winform\Source\My Project\ET\obj\Release\ET.pdb

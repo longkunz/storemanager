@@ -1,0 +1,37 @@
+C:\Users\Long\Documents\My Project\BUS\bin\Debug\BUS.dll
+C:\Users\Long\Documents\My Project\BUS\bin\Debug\BUS.pdb
+C:\Users\Long\Documents\My Project\BUS\bin\Debug\DAL.dll
+C:\Users\Long\Documents\My Project\BUS\bin\Debug\ET.dll
+C:\Users\Long\Documents\My Project\BUS\bin\Debug\DAL.pdb
+C:\Users\Long\Documents\My Project\BUS\bin\Debug\ET.pdb
+C:\Users\Long\Documents\My Project\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Long\Documents\My Project\BUS\obj\Debug\BUS.dll
+C:\Users\Long\Documents\My Project\BUS\obj\Debug\BUS.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\BUS\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\BUS\bin\Debug\ET.dll
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\BUS\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\BUS\bin\Debug\ET.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\BUS\obj\Debug\BUS.pdb
+D:\Do_An_Winform\My Project\BUS\bin\Debug\BUS.dll
+D:\Do_An_Winform\My Project\BUS\bin\Debug\BUS.pdb
+D:\Do_An_Winform\My Project\BUS\bin\Debug\DAL.dll
+D:\Do_An_Winform\My Project\BUS\bin\Debug\ET.dll
+D:\Do_An_Winform\My Project\BUS\bin\Debug\DAL.pdb
+D:\Do_An_Winform\My Project\BUS\bin\Debug\ET.pdb
+D:\Do_An_Winform\My Project\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Do_An_Winform\My Project\BUS\obj\Debug\BUS.dll
+D:\Do_An_Winform\My Project\BUS\obj\Debug\BUS.pdb
+D:\Winform\Do An Winform\Source\My Project\BUS\bin\Debug\BUS.dll
+D:\Winform\Do An Winform\Source\My Project\BUS\bin\Debug\BUS.pdb
+D:\Winform\Do An Winform\Source\My Project\BUS\bin\Debug\DAL.dll
+D:\Winform\Do An Winform\Source\My Project\BUS\bin\Debug\ET.dll
+D:\Winform\Do An Winform\Source\My Project\BUS\bin\Debug\DAL.pdb
+D:\Winform\Do An Winform\Source\My Project\BUS\bin\Debug\ET.pdb
+D:\Winform\Do An Winform\Source\My Project\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Winform\Do An Winform\Source\My Project\BUS\obj\Debug\BUS.dll
+D:\Winform\Do An Winform\Source\My Project\BUS\obj\Debug\BUS.pdb

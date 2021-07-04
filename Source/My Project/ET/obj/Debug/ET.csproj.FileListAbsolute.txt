@@ -1,0 +1,19 @@
+C:\Users\Long\Documents\My Project\ET\bin\Debug\ET.dll
+C:\Users\Long\Documents\My Project\ET\bin\Debug\ET.pdb
+C:\Users\Long\Documents\My Project\ET\obj\Debug\ET.dll
+C:\Users\Long\Documents\My Project\ET\obj\Debug\ET.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\ET\bin\Debug\ET.dll
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\ET\bin\Debug\ET.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\ET\obj\Debug\ET.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\ET\obj\Debug\ET.dll
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\ET\obj\Debug\ET.pdb
+D:\Do_An_Winform\My Project\ET\bin\Debug\ET.dll
+D:\Do_An_Winform\My Project\ET\bin\Debug\ET.pdb
+D:\Do_An_Winform\My Project\ET\obj\Debug\ET.dll
+D:\Do_An_Winform\My Project\ET\obj\Debug\ET.pdb
+D:\Do_An_Winform\My Project\ET\obj\Debug\ET.csprojResolveAssemblyReference.cache
+D:\Winform\Do An Winform\Source\My Project\ET\bin\Debug\ET.dll
+D:\Winform\Do An Winform\Source\My Project\ET\bin\Debug\ET.pdb
+D:\Winform\Do An Winform\Source\My Project\ET\obj\Debug\ET.dll
+D:\Winform\Do An Winform\Source\My Project\ET\obj\Debug\ET.pdb
+D:\Winform\Do An Winform\Source\My Project\ET\obj\Debug\ET.csprojResolveAssemblyReference.cache

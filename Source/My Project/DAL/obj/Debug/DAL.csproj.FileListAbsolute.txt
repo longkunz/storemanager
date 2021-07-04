@@ -1,0 +1,29 @@
+C:\Users\Long\Documents\My Project\DAL\bin\Debug\DAL.dll
+C:\Users\Long\Documents\My Project\DAL\bin\Debug\DAL.pdb
+C:\Users\Long\Documents\My Project\DAL\bin\Debug\ET.dll
+C:\Users\Long\Documents\My Project\DAL\bin\Debug\ET.pdb
+C:\Users\Long\Documents\My Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Long\Documents\My Project\DAL\obj\Debug\DAL.dll
+C:\Users\Long\Documents\My Project\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\DAL\bin\Debug\ET.dll
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\DAL\bin\Debug\ET.pdb
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Downloads\Do_An_Winform\My Project\DAL\obj\Debug\DAL.pdb
+D:\Do_An_Winform\My Project\DAL\bin\Debug\DAL.dll
+D:\Do_An_Winform\My Project\DAL\bin\Debug\DAL.pdb
+D:\Do_An_Winform\My Project\DAL\bin\Debug\ET.dll
+D:\Do_An_Winform\My Project\DAL\bin\Debug\ET.pdb
+D:\Do_An_Winform\My Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Do_An_Winform\My Project\DAL\obj\Debug\DAL.dll
+D:\Do_An_Winform\My Project\DAL\obj\Debug\DAL.pdb
+D:\Winform\Do An Winform\Source\My Project\DAL\bin\Debug\DAL.dll
+D:\Winform\Do An Winform\Source\My Project\DAL\bin\Debug\DAL.pdb
+D:\Winform\Do An Winform\Source\My Project\DAL\bin\Debug\ET.dll
+D:\Winform\Do An Winform\Source\My Project\DAL\bin\Debug\ET.pdb
+D:\Winform\Do An Winform\Source\My Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Winform\Do An Winform\Source\My Project\DAL\obj\Debug\DAL.dll
+D:\Winform\Do An Winform\Source\My Project\DAL\obj\Debug\DAL.pdb
